@@ -1,2 +1,2 @@
-# -MS-soft-technology
+# -MS-soft-technologies
 MS Soft Technologies is a prominent software training institute, primarily located in Dilsukhnagar, Hyderabad, specializing in job-oriented courses for IT professionals, offering deep dives into Data Science, Full Stack Development, Java, Python, MSBI (Microsoft Business Intelligence), SAP, Cloud (Azure, AWS), Digital Marketing, and Graphics....
